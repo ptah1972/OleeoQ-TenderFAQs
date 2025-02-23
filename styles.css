@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Use a modern, clean sans-serif font */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  
+  /* Enhance link hover effects */
+  a:hover {
+    opacity: 0.8;
+  }
+  
+  /* Additional custom styles can be added here */
+  
